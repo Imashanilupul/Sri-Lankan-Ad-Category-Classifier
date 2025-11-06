@@ -103,9 +103,7 @@ print('predicted category:', pred[0])
 
 If you'd like, I can add a `requirements.txt` and a short example script/notebook — tell me which you'd prefer.
 
-## Contributing
 
-Contributions are welcome. Please open issues for bugs or feature requests and submit pull requests for changes. If you add large models or data, consider storing them externally (e.g., Hugging Face, Google Drive) and add instructions.
 
 ## License
 
